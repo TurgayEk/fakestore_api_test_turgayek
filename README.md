@@ -1,0 +1,1 @@
+# fakestore_api_test_turgayek
